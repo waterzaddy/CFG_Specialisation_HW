@@ -54,3 +54,10 @@ subcategory_nav = ["Back", "Exit"]
 
 # Run user navigation
 website_navigation(home, home_nav)
+
+
+"""
+Time and space complexity is O(n).
+This is because the user inputs are linear and 
+can increase or decrease depending on the amount of interaction.
+"""
